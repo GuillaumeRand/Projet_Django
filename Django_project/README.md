@@ -8,7 +8,8 @@ Load library's projet :
 
 - ```source .env/bin/activate```
 
-| Library       | command   |                                                             |
+| Library       | command   |     
+| ----------------- | ------------------------------------------------------------------|                                                        |
 | PIP | pip install --upgrade pip |
 | Django | pip install Django==version |
 | Numpy | pip install numpy |
